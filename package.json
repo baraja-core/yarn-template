@@ -1,6 +1,6 @@
 {
 	"name": "@brj/yarn-template",
-	"version": "1.0.0",
+	"version": "0.0.0",
 	"description": "Yarn template",
 	"main": "index.js",
 	"module": "./lib/index.js",
